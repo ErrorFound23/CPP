@@ -1,0 +1,6 @@
+.github/dependabot.yml
+.vscode/launch.json
+.vscode/tasks.json
+*.exe
+*.jpg
+02_practicals/tempCodeRunnerFile.c
