@@ -122,10 +122,10 @@ int main()
             display(start);
             break;
         case 'x':
-            printf("Exit successfully.");
+            printf("Exit successfully.\n");
             break;
         default:
-            printf("Invalid choice!!");
+            printf("Invalid choice!!\n");
             break;
         }
     }
